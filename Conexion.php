@@ -2,7 +2,7 @@
 // Datos del servidor real en InfinityFree
 $host = "sql100.infinityfree.com";
 $user = "if0_41715471";
-$pass = "b8vr8snUFUlkY"; // Tu contraseña de hosting
+$pass = "CONTRASEÑA_PROTEGIDA"; // Tu contraseña de hosting
 $db   = "if0_41715471_db_gestion";
 
 
